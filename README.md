@@ -1,4 +1,4 @@
-# Project-7 DAtE: April 24, 2024
+# Project-7 DATE: April 24, 2024
 Machine Learning
 The aim of this project is to develop a machine learning model that can accurately classify subscribers based on their mobile phone usage data and recommend one of Megaline's newer plans, Smart or Ultra. The goal is to analyze the behavior patterns of Megaline's subscribers and identify which plan (Smart or Ultra) best suits their needs.
 
